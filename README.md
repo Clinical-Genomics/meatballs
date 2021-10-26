@@ -4,7 +4,7 @@ An open source recipe book from the awesome staff of Clinical Genomics.
 ![image](https://user-images.githubusercontent.com/28093618/138847375-22f22ebf-c15a-425f-8657-29cb8e2e337b.png)
 
 
-This repository is created as GitHub playground for the group workshop in Sigtuna (28-29 Oct 2021).
+This repository is created as **GitHub playground for the group workshop in Sigtuna (28-29 Oct 2021)**.
 
 We hope that it will be a fun way to learn how to use GitHub for opening and reviewing pull requests!
 
@@ -53,7 +53,7 @@ A guide on how to create a pull request using the GitHub web editor is present [
 
 ### Previewing the contents using mkdocs serve
 
-This option is only available if you have the repository forked and installed locally. You could preview the content of the docs folder by running: 
+This option is only available if you have the repository installed locally. You could preview the content of the docs folder by running: 
 ```
 mkdocs serve
 ```
