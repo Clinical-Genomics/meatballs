@@ -47,7 +47,7 @@ To create a pull request you could **either create a new branch containing the c
 
 A simple guide on how to open a general pull request in GitHub can be found [here](https://opensource.com/article/19/7/create-pull-request-github). Keep in mind that this is the usual way to work with pull requests, but it requires basic usage of the terminal.
 
-A giud on how to create a pull request using the GitHub web editor is present [here](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)
+A guide on how to create a pull request using the GitHub web editor is present [here](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)
 
 ### Previewing the contents using mkdocs serve
 
