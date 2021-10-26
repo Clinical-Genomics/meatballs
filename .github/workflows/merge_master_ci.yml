@@ -9,7 +9,6 @@ jobs:
   bump-version:
     runs-on: ubuntu-latest
     name: Bump version and push tags to master
-    needs: update_revision_date
     steps:
       - name: Bump version
         uses: Clinical-Genomics/bump2version-ci@v3
