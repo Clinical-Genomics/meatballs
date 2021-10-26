@@ -12,7 +12,7 @@ We hope that it will be a fun way to learn how to use GitHub for opening and rev
 If you have Docker installed on your computer you could run meatballs locally using the following commands 
 
 Howto:
-- clone this repository to your computer with the following command:
+- Clone this repository to your computer with the following command:
 ```
 git clone https://github.com/Clinical-Genomics/meatballs.git
 ```
