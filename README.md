@@ -1,5 +1,5 @@
 # meatballs
-An open source recipe book from the awesome staff of Clinical Genomics.
+An open source recipe book from the awesome staff of Clinical Genomics. Link to the available recipes: https://clinical-genomics.github.io/meatballs/
 
 ![image](https://user-images.githubusercontent.com/28093618/138847375-22f22ebf-c15a-425f-8657-29cb8e2e337b.png)
 
@@ -10,7 +10,7 @@ We hope that it will be a fun way to learn how to use GitHub for opening and rev
 
 ## Run meatballs on your computer using Docker
 Requires git software installed (https://github.com/git-guides/install-git).
-If you have Docker installed on your computer you could run meatballs locally using the following commands 
+If you have Docker installed on your computer you could run meatballs locally using the following commands
 
 Howto:
 - Clone this repository to your computer with the following command:
@@ -45,7 +45,7 @@ Looking to submit a recipe? Follow these instructions:
 The content of your recipe should be included in the docs folder of this repository. Make sure your recipe is created in the right category (appetizers, main_courses, desserts, drinks ..?). The text should be formatted in [markdown](https://www.markdownguide.org/basic-syntax/).
 
 To create a pull request you could either:
-- Create a new branch containing the changes on your computer and then push it to this repository to open the pull request 
+- Create a new branch containing the changes on your computer and then push it to this repository to open the pull request
 - Use the GitHub web-based editor to add changes and open a pull request
 
 A simple guide on how to open a general pull request in GitHub can be found [here](https://opensource.com/article/19/7/create-pull-request-github). Keep in mind that this is the usual way to work with pull requests, but it requires basic usage of the terminal.
@@ -54,7 +54,7 @@ A guide on how to create a pull request using the GitHub web editor is present [
 
 ### Previewing the contents using mkdocs serve
 
-This option is only available if you have the repository installed locally. You could preview the content of the docs folder by running: 
+This option is only available if you have the repository installed locally. You could preview the content of the docs folder by running:
 ```
 mkdocs serve
 ```
