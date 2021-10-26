@@ -9,6 +9,7 @@ This repository is created as **GitHub playground for the group workshop in Sigt
 We hope that it will be a fun way to learn how to use GitHub for opening and reviewing pull requests!
 
 ## Run meatballs on your computer using Docker
+Requires git software installed (https://github.com/git-guides/install-git).
 If you have Docker installed on your computer you could run meatballs locally using the following commands 
 
 Howto:
