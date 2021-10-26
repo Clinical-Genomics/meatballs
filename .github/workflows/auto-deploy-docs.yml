@@ -18,6 +18,6 @@ jobs:
       with:
         python-version: 3.x
     - name: Install mkdocs
-      run: pip install mkdocs mkdocs-material markdown-include
+      run: pip install mkdocs mkdocs-material markdown-include md-tooltips
     - name: Deploy documentation
       run: mkdocs gh-deploy --force
