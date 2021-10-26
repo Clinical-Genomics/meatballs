@@ -1,0 +1,26 @@
+site_name: Meatballs - recipes from CG Team
+repo_url: https://github.com/clinicalgenomics/meatballs/
+site_author: Clinical Genomics bioinfo team
+dev_addr: 0.0.0.0:8080
+
+extra:
+  version: 0.1
+
+markdown_extensions:
+    - mdtooltips
+    - markdown_include.include:
+          base_path: docs
+    - pymdownx.superfences
+
+theme:
+    name: "material"
+    logo: "img/meatballs.png"
+    palette:
+        primary: "orange"
+        accent: "amber"
+
+extra_css:
+    - css/tooltips.css
+
+nav:
+  - Home: 'index.md'
