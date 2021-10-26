@@ -1,10 +1,3 @@
----
-title: Pastas - Gnocchi with Pumpkin
-revision_date: 2021-10-26
-yearly_revision_date: 2021-10-26
-owner: chiara.rasi@scilifelab.se
----
-
 # Gnocchi with pumpkin, onion and smoked bacon.
 
 ![Meatballs](../../img/gnocchi-pumpa.jpeg)
