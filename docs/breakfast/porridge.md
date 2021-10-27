@@ -1,6 +1,6 @@
-# Porrige by Anna
+# Porridge by Anna
 
-![Porrige](../img/porridge.jpeg)
+![Porridge](../img/porridge.jpeg)
 
 ## Ingredients
 - Oatmeal
