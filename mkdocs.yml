@@ -29,5 +29,7 @@ nav:
       - Risotto: "dinner/risotto.md"
   - Breakfast:
       - Porridge: "breakfast/porridge.md"
+  - Fika:
+      - Pumpakaka: "fika/pumpakaka.md"  
   - Desserts:
       - Desserts: "Desserts/fruit_sallad.md"
