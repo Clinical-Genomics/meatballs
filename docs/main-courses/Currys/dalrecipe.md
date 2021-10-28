@@ -24,7 +24,7 @@
 
 1. Pressure cook the Toor dal along with water for 2-3 whistles. (Incase if you dont have pressure-cook, cook in a Toor dal with 3 cups of water until its soft cooked)
 
-2. In a sauce pan lets prepare the curry base. Heat Ghee/smor, add crushed garlic and then add mustard seeds, jeera seeds, dried chillies, turmeric and slight fry all of these items.
+2. In a sauce pan lets prepare the curry base. Heat Ghee/smor, add crushed garlic and then add mustard seeds, jeera seeds, dried chillies, turmeric, Asafoetida Powder and slight fry all of these items.
 
 3. Add onions, fry till they turn slight brown and then add tomotoes and cook it until tomatoes turns soft.
 
