@@ -26,6 +26,7 @@ nav:
   - Home: 'index.md'
   - Pastas & similar:
       - Gnocchi with Pumpkin: "main-courses/pastas/gnocchi_with_pumpkin.md"
+      - Risotto: "dinner/risotto.md"
   - Breakfast:
       - Porridge: "breakfast/porridge.md"
   - Desserts:
