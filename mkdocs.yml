@@ -26,5 +26,6 @@ nav:
   - Home: 'index.md'
   - Pastas & similar:
       - Gnocchi with Pumpkin: "main-courses/pastas/gnocchi_with_pumpkin.md"
+      - Taco night: "main-courses/pastas/taco_night.md"
   - Breakfast:
       - Porridge: "breakfast/porridge.md"
