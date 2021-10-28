@@ -19,6 +19,5 @@ Slice and dice the fruit and pour it into a bowl.
 Invite your colleagues, sharing is caring :two_hearts:
 
 
-## 
 
 
