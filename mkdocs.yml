@@ -24,6 +24,8 @@ extra_css:
 
 nav:
   - Home: 'index.md'
+  - 80's delicacies:
+      - Cauliflower with meat cover: "main-courses/80_delicacies/cauliflower_with_meat_cover.md"
   - Pastas & similar:
       - Gnocchi with Pumpkin: "main-courses/pastas/gnocchi_with_pumpkin.md"
   - Breakfast:
