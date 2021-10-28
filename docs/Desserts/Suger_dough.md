@@ -6,7 +6,7 @@
 - 250 g of flour
 - 1 egg
 - 1 pinch of salt
-
+## Steps
 1. Work the butter, the suger and the pinch of salt into a a paste, until the colour shifts from yellow to white.
 2. Add the egg and work the paste until homogenous.
 3. Add the flour and work quickly to work it into a dough.
