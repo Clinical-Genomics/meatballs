@@ -14,7 +14,7 @@
 ## Preparation
 Preboil the broccoli.
 
-Boli pasta :)
+Boil pasta :)
 
 Crunch the garlic with the side of you knife.
 
