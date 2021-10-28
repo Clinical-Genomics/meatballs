@@ -4,7 +4,7 @@ site_author: Clinical Genomics bioinfo team
 dev_addr: 0.0.0.0:8080
 
 extra:
-  version: 0.1.0
+  version: 0.3.0
 
 markdown_extensions:
     - mdtooltips
@@ -26,6 +26,11 @@ nav:
   - Home: 'index.md'
   - Pastas & similar:
       - Gnocchi with Pumpkin: "main-courses/pastas/gnocchi_with_pumpkin.md"
+      - Risotto: "dinner/risotto.md"
   - Breakfast:
       - Porridge: "breakfast/porridge.md"
+
       - American pancakes: "breakfast/pancakes.md"
+  - Desserts:
+      - Desserts: "Desserts/fruit_sallad.md"
+
