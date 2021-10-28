@@ -30,6 +30,6 @@
 
 4. Then add green chilli, curry leaves, chilli powder and salt. Cook it for 3-5 mins
 
-5. Transfer the cooked Toor dal to the curry base
+5. Transfer the cooked Toor dal to the curry base. (Adjust the consistency of water at this step).
 
 6. Finally garnish it corriander and serve with hot rice or bread.
