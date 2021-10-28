@@ -4,7 +4,7 @@ site_author: Clinical Genomics bioinfo team
 dev_addr: 0.0.0.0:8080
 
 extra:
-  version: 0.1.0
+  version: 0.2.0
 
 markdown_extensions:
     - mdtooltips
