@@ -1,4 +1,4 @@
-# Boiled egg by Patrik
+# Boiled eggs by Patrik
 
 ![BoiledEgg](../img/Boiling_Eggs.jpg)
 
