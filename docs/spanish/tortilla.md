@@ -7,7 +7,7 @@
 - 1 Medium onion
 - 1 cup of olive oil
 - Salt and black pepper
-- Eggs (4 eggs per each 3 potatos)
+- Eggs (4 eggs for every 3 potatoes)
 
 
 ## Preparation
