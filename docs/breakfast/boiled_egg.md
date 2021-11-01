@@ -1,6 +1,6 @@
 # Boiled egg by Patrik
 
-![BoiledEgg](../img/eggs.jpeg)
+![BoiledEgg](../img/Boiling_Eggs.jpeg)
 
 ## Ingredients
 - Eggs
