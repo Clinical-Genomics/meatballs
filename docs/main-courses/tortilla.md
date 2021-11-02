@@ -1,4 +1,4 @@
-# Tortilla Española by Vadym
+# Tortilla Española
 
 ![tortilla](../img/tortilla/tortilla.webp)
 
