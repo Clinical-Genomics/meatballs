@@ -27,6 +27,8 @@ nav:
   - Pastas & similar:
       - Gnocchi with Pumpkin: "main-courses/pastas/gnocchi_with_pumpkin.md"
       - Risotto: "dinner/risotto.md"
+  - Main courses:
+      - Tortilla: "main-courses/tortilla.md" 
   - Breakfast:
       - Boiled Eggs: "breakfast/boiled_egg.md"   
       - Porridge: "breakfast/porridge.md"
