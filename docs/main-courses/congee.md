@@ -25,3 +25,5 @@
 4. While that’s cooking, dice the thousand year-old egg and set it aside. Very thinly julienne the ginger. Don’t prepare this ahead of time, as we want the flavor of freshly cut ginger.
 5. After 15 minutes, it’s time to add the julienned ginger, pork, and thousand year-old egg. Stir and simmer for another 5 minutes or so. Finally, stir in the white pepper and salt to taste. Serve piping hot with chopped scallions and cilantro.
 6. EASY PEASY!
+
+### Pro-tip: this can be consumed when sick, so remove half the flavorful ingredients- which boils it down to basically just ginger, salt, and meat and then eat for breakfast, lunch, and dinner.
