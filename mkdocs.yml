@@ -1,5 +1,5 @@
 site_name: Meatballs - recipes from CG Team
-repo_url: https://github.com/clinicalgenomics/meatballs/
+repo_url: https://github.com/clinical-genomics/meatballs/
 site_author: Clinical Genomics bioinfo team
 dev_addr: 0.0.0.0:8080
 
