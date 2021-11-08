@@ -1,10 +1,10 @@
 site_name: Meatballs - recipes from CG Team
-repo_url: https://github.com/clinicalgenomics/meatballs/
+repo_url: https://github.com/clinical-genomics/meatballs/
 site_author: Clinical Genomics bioinfo team
 dev_addr: 0.0.0.0:8080
 
 extra:
-  version: 0.3.0
+  version: 0.4.3
 
 markdown_extensions:
     - mdtooltips
@@ -27,9 +27,14 @@ nav:
   - Pastas & similar:
       - Gnocchi with Pumpkin: "main-courses/pastas/gnocchi_with_pumpkin.md"
       - Risotto: "dinner/risotto.md"
+  - Main courses:
+      - Tortilla: "main-courses/tortilla.md" 
   - Breakfast:
+      - Boiled Eggs: "breakfast/boiled_egg.md"   
       - Porridge: "breakfast/porridge.md"
       - American pancakes: "breakfast/pancakes.md"
   - Desserts:
       - Desserts: "Desserts/fruit_sallad.md"
+  - Fika:
+      - Pumpakaka: "fika/pumpakaka.md"  
 
