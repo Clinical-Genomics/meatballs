@@ -31,6 +31,7 @@ nav:
       - Risotto: "dinner/risotto.md"
   - Main courses:
       - Tortilla: "main-courses/tortilla.md" 
+      - Congee: "main-courses/congee.md"
   - Breakfast:
       - Boiled Eggs: "breakfast/boiled_egg.md"   
       - Porridge: "breakfast/porridge.md"
