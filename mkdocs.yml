@@ -33,11 +33,12 @@ nav:
       - Tortilla: "main-courses/tortilla.md" 
       - Congee: "main-courses/congee.md"
   - Breakfast:
+      - Porridge: "breakfast/porridge.md" 
       - Boiled Eggs: "breakfast/boiled_egg.md"   
       - Porridge: "breakfast/porridge.md"
       - American pancakes: "breakfast/pancakes.md"
   - Desserts:
       - Desserts: "Desserts/fruit_sallad.md"
   - Fika:
-      - Pumpakaka: "fika/pumpakaka.md"  
-
+      - Pumpakaka: "fika/pumpakaka.md"
+      - Chokladbollar: "fika/Chokladbollar_by_Rasmus.md" 
