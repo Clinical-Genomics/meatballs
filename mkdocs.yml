@@ -39,7 +39,6 @@ nav:
   - Breakfast:
       - Porridge: "breakfast/porridge.md" 
       - Boiled Eggs: "breakfast/boiled_egg.md"   
-      - Porridge: "breakfast/porridge.md"
       - American pancakes: "breakfast/pancakes.md"
   - Desserts:
       - Desserts: "Desserts/fruit_sallad.md"
