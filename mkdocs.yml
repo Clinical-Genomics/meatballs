@@ -47,9 +47,8 @@ nav:
   - Fika:
       - Pumpakaka: "fika/pumpakaka.md"
       - Chokladbollar: "fika/Chokladbollar_by_Rasmus.md" 
-  - Snacks:
-      - Potato chips: "Snacks/potato_chips.md"
-      - Chokladbollar: "fika/Chokladbollar_by_Rasmus.md"
+  - Lunch:
+      - Greek salad: "lunch/Salad.md"
   - Snacks:
       - Popcorn: "snacks/popcorn.md"
       - Chips: "snacks/potato_chips.md"
