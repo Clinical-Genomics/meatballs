@@ -16,4 +16,7 @@ owner: vasileios.kyriakidis@scilifelab.se
 ## Ingredients
 1. Cocoa 50g
 2. Mariekex bisquits 1pkg (25-30 biscuits)
-3.
+3. Dark baking chocolate 150g
+4. Butter 125g
+5. Whipped cream 100 ml 
+6. Optional: coconut flakes 50g
