@@ -6,6 +6,7 @@
 
 - corn
 - neutral oil
+- salt
 
 ## Preparations
 
