@@ -42,4 +42,6 @@ nav:
       - Desserts: "Desserts/fruit_sallad.md"
   - Fika:
       - Pumpakaka: "fika/pumpakaka.md"
-      - Chokladbollar: "fika/Chokladbollar_by_Rasmus.md" 
+      - Chokladbollar: "fika/Chokladbollar_by_Rasmus.md"
+  - Snacks:
+      - Popcorn: "snacks/popcorn.md"
