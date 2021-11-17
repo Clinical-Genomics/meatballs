@@ -4,7 +4,7 @@ site_author: Clinical Genomics bioinfo team
 dev_addr: 0.0.0.0:8080
 
 extra:
-  version: 0.4.7
+  version: 0.5.1
 
 markdown_extensions:
     - mdtooltips
@@ -24,14 +24,18 @@ extra_css:
 
 nav:
   - Home: 'index.md'
+  - Coctails:
+      - Old fashioned: "coctails/Oldfashioned.md"
   - Pastas & similar:
       - Gnocchi with Pumpkin: "main-courses/pastas/gnocchi_with_pumpkin.md"
+      - Spaghetti Carbonara: "main-courses/pastas/carbonara.md"
   - Sauces/Curry:
       - Indian Dal recipe: "main-courses/Currys/dalrecipe.md" 
       - Risotto: "dinner/risotto.md"
   - Main courses:
       - Tortilla: "main-courses/tortilla.md" 
       - Congee: "main-courses/congee.md"
+      - Pitepalt: "main-courses/pitepalt.md"
   - Breakfast:
       - Porridge: "breakfast/porridge.md" 
       - Boiled Eggs: "breakfast/boiled_egg.md"   
@@ -42,5 +46,6 @@ nav:
       - Cheesecake: "Desserts/cheesecake.md"
   - Fika:
       - Pumpakaka: "fika/pumpakaka.md"
-      - Chokladbollar: "fika/Chokladbollar_by_Rasmus.md" 
-- 
+      - Chokladbollar: "fika/Chokladbollar_by_Rasmus.md"
+  - Snacks:
+      - Popcorn: "snacks/popcorn.md"
