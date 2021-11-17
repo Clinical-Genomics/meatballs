@@ -4,7 +4,7 @@ site_author: Clinical Genomics bioinfo team
 dev_addr: 0.0.0.0:8080
 
 extra:
-  version: 0.5.0
+  version: 0.5.2
 
 markdown_extensions:
     - mdtooltips
@@ -24,6 +24,8 @@ extra_css:
 
 nav:
   - Home: 'index.md'
+  - Coctails:
+      - Old fashioned: "coctails/Oldfashioned.md"
   - Pastas & similar:
       - Gnocchi with Pumpkin: "main-courses/pastas/gnocchi_with_pumpkin.md"
       - Spaghetti Carbonara: "main-courses/pastas/carbonara.md"
@@ -48,3 +50,4 @@ nav:
       - Greek salad: "lunch/Salad.md"
   - Snacks:
       - Popcorn: "snacks/popcorn.md"
+      - Chips: "snacks/potato_chips.md"
