@@ -9,7 +9,9 @@ owner: vasileios.kyriakidis@scilifelab.se
 
 ![image](https://user-images.githubusercontent.com/25936616/142201796-268839b9-1bd7-45ed-90bf-e3fb8dcb3658.png)
 
-[Youtube Recipe](https://www.youtube.com/watch?v=VgMl14M-Eqw&ab_channel=ButterflyCreations)
+<br>
+
+[Youtube Recipe](https://www.youtube.com/watch?v=O3Tk-RcVZXo&ab_channel=%CE%86%CE%BA%CE%B7%CF%82%CE%A0%CE%B5%CF%84%CF%81%CE%B5%CF%84%CE%B6%CE%AF%CE%BA%CE%B7%CF%82)
  
 <br>
 
@@ -20,3 +22,9 @@ owner: vasileios.kyriakidis@scilifelab.se
 4. Butter 125g
 5. Whipped cream 100 ml 
 6. Optional: coconut flakes 50g
+<br>
+## Recipe
+
+1. Bring butter in room temperature
+2. Add 100ml of whipped cream in a pot with the 150g of baking chocolate. 
+3. Boil water in 
