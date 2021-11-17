@@ -24,6 +24,8 @@ extra_css:
 
 nav:
   - Home: 'index.md'
+  - Coctails:
+      - Old fashioned: "coctails/Oldfashioned.md"
   - Pastas & similar:
       - Gnocchi with Pumpkin: "main-courses/pastas/gnocchi_with_pumpkin.md"
       - Spaghetti Carbonara: "main-courses/pastas/carbonara.md"
