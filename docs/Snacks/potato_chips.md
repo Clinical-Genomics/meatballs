@@ -12,7 +12,7 @@
 
 
 ---
-**Prep Time:** 10 min  
+**Prep Time:** 15 min   
 **Cooking Time:** 20 min  
 **Total Time:** 30 minutes  
 **Yield:** Serves 2-4  
