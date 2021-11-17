@@ -28,4 +28,4 @@ owner: vasileios.kyriakidis@scilifelab.se
 
 1. Bring butter in room temperature
 2. Add 100ml of whipped cream in a pot with the 150g of baking chocolate. 
-3. Boil water in 
+3. Boil water in an other pot to perform bain marie in order to melt the chocolate.
