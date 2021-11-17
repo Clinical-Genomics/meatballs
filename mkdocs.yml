@@ -11,6 +11,9 @@ markdown_extensions:
     - markdown_include.include:
           base_path: docs
     - pymdownx.superfences
+    - pymdownx.emoji:
+          emoji_index: !!python/name:materialx.emoji.twemoji
+          emoji_generator: !!python/name:materialx.emoji.to_svg
 
 theme:
     name: "material"
