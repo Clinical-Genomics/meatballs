@@ -23,6 +23,7 @@ owner: vasileios.kyriakidis@scilifelab.se
 5. Whipped cream 100 ml 
 6. Optional: coconut flakes 50g
 <br>
+
 ## Recipe
 
 1. Bring butter in room temperature
