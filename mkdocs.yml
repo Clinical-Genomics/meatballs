@@ -32,6 +32,7 @@ nav:
   - Main courses:
       - Tortilla: "main-courses/tortilla.md" 
       - Congee: "main-courses/congee.md"
+      - Quesadillas: "dinner/quesadillas.md"
   - Breakfast:
       - Porridge: "breakfast/porridge.md" 
       - Boiled Eggs: "breakfast/boiled_egg.md"   
