@@ -8,7 +8,7 @@
 - Red onion
 - Feta cheese
 - Olives
-- Olive oil
+- Extra virgin Greek Olive Oil
 
 ## Preparations
 1. Cut all the vegetables into pieces of prefered sizes.
