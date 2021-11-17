@@ -11,6 +11,9 @@ markdown_extensions:
     - markdown_include.include:
           base_path: docs
     - pymdownx.superfences
+    - pymdownx.emoji:
+          emoji_index: !!python/name:materialx.emoji.twemoji
+          emoji_generator: !!python/name:materialx.emoji.to_svg
 
 theme:
     name: "material"
@@ -31,18 +34,18 @@ nav:
       - Spaghetti Carbonara: "main-courses/pastas/carbonara.md"
   - Sauces/Curry:
       - Indian Dal recipe: "main-courses/Currys/dalrecipe.md" 
-      - Risotto: "dinner/risotto.md"
   - Main courses:
       - Tortilla: "main-courses/tortilla.md" 
       - Congee: "main-courses/congee.md"
       - Pitepalt: "main-courses/pitepalt.md"
+      - Risotto: "main-courses/risotto.md"
   - Breakfast:
       - Porridge: "breakfast/porridge.md" 
       - Boiled Eggs: "breakfast/boiled_egg.md"   
       - Porridge: "breakfast/porridge.md"
       - American pancakes: "breakfast/pancakes.md"
   - Desserts:
-      - Desserts: "Desserts/fruit_sallad.md"
+      - Fruit salad: "Desserts/fruit_salad.md"
       - Cheesecake: "Desserts/cheesecake.md"
   - Fika:
       - Pumpakaka: "fika/pumpakaka.md"
