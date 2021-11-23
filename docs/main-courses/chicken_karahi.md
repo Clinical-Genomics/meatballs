@@ -1,6 +1,6 @@
 # Fried Chicken known as chicken karahi.
 
-![image](../../img/Pakistani-Chicken-Karahi.jpg)
+![image](../img/Pakistani-Chicken-Karahi.jpg)
 
 ## Ingredients
  - Chicken ~1Kg with bones
