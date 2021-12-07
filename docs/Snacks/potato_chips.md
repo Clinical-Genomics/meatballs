@@ -1,6 +1,5 @@
 # **Potato chips**
 
-
 ![potato chips](https://simple-veganista.com/wp-content/uploads/2012/07/best-homemade-baked-potato-chip-recipe-1-360x360.webp)
 
 *So simple, healthy and easy to make, once you make your own crispy homemade baked potato chips, there’s no going back to the bag!*
