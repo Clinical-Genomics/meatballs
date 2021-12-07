@@ -1,4 +1,5 @@
-# **Chips**
+# **Potato chips**
+
 
 ![potato chips](https://simple-veganista.com/wp-content/uploads/2012/07/best-homemade-baked-potato-chip-recipe-1-360x360.webp)
 

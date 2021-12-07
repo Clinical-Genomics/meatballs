@@ -4,7 +4,7 @@ site_author: Clinical Genomics bioinfo team
 dev_addr: 0.0.0.0:8080
 
 extra:
-  version: 0.5.1
+  version: 0.6.4
 
 markdown_extensions:
     - mdtooltips
@@ -36,6 +36,7 @@ nav:
       - Tortilla: "main-courses/tortilla.md" 
       - Congee: "main-courses/congee.md"
       - Pitepalt: "main-courses/pitepalt.md"
+      - Broccoli- och ärtsoppa: "main-courses/BroccoliSoppa.md"
   - Breakfast:
       - Porridge: "breakfast/porridge.md" 
       - Boiled Eggs: "breakfast/boiled_egg.md"   
@@ -43,9 +44,13 @@ nav:
       - American pancakes: "breakfast/pancakes.md"
   - Desserts:
       - Desserts: "Desserts/fruit_sallad.md"
+      - Cheesecake: "Desserts/cheesecake.md"
   - Fika:
       - Pumpakaka: "fika/pumpakaka.md"
       - Chokladbollar: "fika/Chokladbollar_by_Rasmus.md" 
+      - Kanelbullar: "fika/Kanelbullar.md"
+  - Lunch:
+      - Greek salad: "lunch/Salad.md"
   - Snacks:
       - Popcorn: "snacks/popcorn.md"
       - Chips: "snacks/potato_chips.md"
