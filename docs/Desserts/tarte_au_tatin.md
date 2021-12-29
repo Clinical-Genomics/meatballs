@@ -1,7 +1,4 @@
 # Tarte au Tatin
-<img height="500" src="/Users/vincent.janvid/dev/meatballs/docs/img/tarte_in_progress.jpg" width="250"/>
-<img height="500" src="/Users/vincent.janvid/dev/meatballs/docs/img/tatin.jpg" width="250"/>
-
 To make the dough see the Sugar Dough recipe.
 ## Ingredients
 - See ingredients for Sugar Dough
