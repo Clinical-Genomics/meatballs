@@ -29,4 +29,5 @@ nav:
   - Breakfast:
       - Porridge: "breakfast/porridge.md"
   - Desserts:
-      - Suger Dough: "Desserts/Suger_dough.md"
+      - Suger Dough: "Desserts/Sugar_dough.md"
+      - Tarte au Tatin: "Desserts/tarte_au_tatin.md"
