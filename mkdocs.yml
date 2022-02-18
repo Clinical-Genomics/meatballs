@@ -42,6 +42,7 @@ nav:
       - Boiled Eggs: "breakfast/boiled_egg.md"   
       - American pancakes: "breakfast/pancakes.md"
   - Desserts:
+      - Hallonkaka: "Hallonkaka.md"
       - Desserts: "Desserts/fruit_sallad.md"
       - Cheesecake: "Desserts/cheesecake.md"
   - Fika:
