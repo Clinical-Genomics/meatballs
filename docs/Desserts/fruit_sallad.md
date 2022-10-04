@@ -10,6 +10,7 @@ Leftover fruits from the CG fruit baskets
 - oranges
 - apples
 - kiwis
+- Quinces
 
 ## Preparations
 
