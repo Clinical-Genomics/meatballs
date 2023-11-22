@@ -1,4 +1,5 @@
 mkdocs
 mkdocs-material
 markdown-include
+markdown<3.4
 md-tooltips
