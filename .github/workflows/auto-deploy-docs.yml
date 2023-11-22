@@ -12,12 +12,12 @@ jobs:
    runs-on: ubuntu-latest
    steps:
     - name: Checkout repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
     - name: Setup environment for docs deployment
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
         python-version: 3.x
-    - name: Install mkdocs
-      run: pip install mkdocs mkdocs-material markdown-include md-tooltips
+    - name: Install meatballs packages
+      run: pip install -e .
     - name: Deploy documentation
       run: mkdocs gh-deploy --force
