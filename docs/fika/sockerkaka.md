@@ -1,5 +1,7 @@
 # Sockerkaka
 
+![img1](../img/sockerkaka.png)
+
 ## Ingredienser
 
 Receptet gäller för 10 bitar
