@@ -2,6 +2,8 @@
 
 ![img1](../img/sockerkaka.png)
 
+![img2](../img/sockerkaka2.png)
+
 ## Ingredienser
 
 Receptet gäller för 10 bitar
