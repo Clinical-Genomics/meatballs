@@ -1,6 +1,5 @@
 # American pancakes
 
-## Ingrediense:
 
 ## Ingredienser
 
