@@ -11,6 +11,7 @@ Blir ca 20 st
 - 2 dl vetemjöl
 - 1 tsk bakpulver
 - 1 tsk malen ingefära
+- 1 dl salt
 
 ## Gör så här
 
