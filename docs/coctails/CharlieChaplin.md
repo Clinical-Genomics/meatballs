@@ -24,5 +24,5 @@ for an approximate result, multiply the volume value by 29,574. You do the math.
 
 ## Reference
 
-[Link1](https://www.liquor.com/charlie-chaplin-cocktail-recipe-5094223)
+[Link to original recipe](https://www.liquor.com/charlie-chaplin-cocktail-recipe-5094223)
 
