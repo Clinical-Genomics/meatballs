@@ -2,6 +2,6 @@
 
 ## Ingredients
 
-- orange juice
+- apple juice
 - lime 
 - soda
