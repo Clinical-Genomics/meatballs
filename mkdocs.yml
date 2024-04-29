@@ -25,6 +25,7 @@ extra_css:
 nav:
   - Home: 'index.md'
   - Coctails:
+      - Charlie Chapling: "coctails/CharlieChaplin.md"
       - Old fashioned: "coctails/Oldfashioned.md"
   - Pastas & similar:
       - Gnocchi with Pumpkin: "main-courses/pastas/gnocchi_with_pumpkin.md"
