@@ -8,7 +8,7 @@ Receptet gäller för 10 bitar
 - 1 dl mjölk
 - 2 ägg
 - 2 dl Strösocke
-2 tsk Vaniljsocker
+- 2 tsk Vaniljsocker
 - 3 dl Vetemjöl
 - 1.5 tsk Bakpulver
 
@@ -23,6 +23,6 @@ Receptet gäller för 10 bitar
 1. Grädda i nedre delen av ugnen i ca 35 min.
 
 
-## refernces
+## References
 
 [original recipe](https://www.arla.se/recept/sockerkaka/)
