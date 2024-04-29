@@ -46,6 +46,7 @@ nav:
       - Desserts: "Desserts/fruit_sallad.md"
       - Cheesecake: "Desserts/cheesecake.md"
   - Fika:
+      - Sockerkaka: "fika/sockerkaka.md"
       - Pumpakaka: "fika/pumpakaka.md"
       - Chokladbollar: "fika/Chokladbollar_by_Rasmus.md" 
       - Kanelbullar: "fika/Kanelbullar.md"
