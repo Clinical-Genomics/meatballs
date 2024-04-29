@@ -10,9 +10,9 @@ Become entertaining
 
 ## Ingredients
 
-1 ounce sloe gin (such as Plymouth)
-1 ounce apricot liqueur (such as Rothman & Winter)
-1 ounce lime juice, freshly squeezed
+- 1 ounce sloe gin (such as Plymouth)
+- 1 ounce apricot liqueur (such as Rothman & Winter)
+- 1 ounce lime juice, freshly squeezed
 
 Ounce to ml:
 for an approximate result, multiply the volume value by 29,574. You do the math.
