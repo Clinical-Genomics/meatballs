@@ -24,9 +24,9 @@ extra_css:
 
 nav:
   - Home: 'index.md'
-  - Coctails:
-      - Charlie Chapling: "coctails/CharlieChaplin.md"
-      - Old fashioned: "coctails/Oldfashioned.md"
+  - Cocktails:
+      - Charlie Chaplin: "cocktails/CharlieChaplin.md"
+      - Old fashioned: "cocktails/Oldfashioned.md"
   - Non alcoholic drinks:
        - Sunshine: "non_alcoholic_drinks/sunshine.md"    
   - Pastas & similar:
@@ -57,6 +57,7 @@ nav:
   - Lunch:
       - Greek salad: "lunch/Salad.md"
       - Meatballs: "lunch/Meatballs.md"
+      - Sweet Potato Quesadillas: "lunch/Sweet_potato_quesadilla.md"
   - Snacks:
       - Popcorn: "snacks/popcorn.md"
       - Chips: "snacks/potato_chips.md"
