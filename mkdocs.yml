@@ -48,6 +48,7 @@ nav:
   - Desserts:
       - Desserts: "Desserts/fruit_sallad.md"
       - Cheesecake: "Desserts/cheesecake.md"
+      - Ice cream: "Desserts/ice_cream.md"
   - Fika:
       - Sockerkaka: "fika/sockerkaka.md"
       - Pumpakaka: "fika/pumpakaka.md"
