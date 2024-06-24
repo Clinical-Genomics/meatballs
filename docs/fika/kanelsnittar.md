@@ -14,6 +14,6 @@
 1. tba
 1.
 
-![image](kanelsnittar.md)
+![image](img/kanelsnittar.md)
 
 - [Orginal recept](https://www.recepten.se/recept/kanelsnittar.html)
