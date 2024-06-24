@@ -1,6 +1,6 @@
 # Nuts
 
-![](docs/img/peanuts.jpeg)
+![](../img/peanuts.jpeg)
 
 > [!CAUTION]
 > Some people are very allergic to nuts!
