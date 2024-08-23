@@ -4,7 +4,7 @@ site_author: Clinical Genomics bioinfo team
 dev_addr: 0.0.0.0:8080
 
 extra:
-  version: 0.6.22
+  version: 0.6.24
 
 markdown_extensions:
     - mdtooltips
@@ -56,6 +56,7 @@ nav:
       - Kanelbullar: "fika/Kanelbullar.md"
       - Pear and lingonberry cake: "fika/pear_cake.md"
       - Smulpaj med äpple: "fika/smulpaj_with_apple.md"
+      - Cardemon cake with lemon: "fika/Cardemon_cake_with_lemon.md"
   - Lunch:
       - Greek salad: "lunch/Salad.md"
       - Meatballs: "lunch/Meatballs.md"

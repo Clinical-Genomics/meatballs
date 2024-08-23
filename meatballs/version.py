@@ -1,2 +1,2 @@
 """Holds the current version"""
-__version__ = "0.6.22"
+__version__ = "0.6.24"
