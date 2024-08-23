@@ -18,13 +18,15 @@ For 8 bitar
 ## Fyllning och garnering
 
 3  medelstora äpplen
+
 1 tsk kardemummakärnor
+
 1 msk strösocker
 
 ### Serveringsförslag
-glass
-vaniljsås
-lättvispad vispgrädde med vaniljsocker
+- glass
+- vaniljsås
+- lättvispad vispgrädde med vaniljsocker
 
 ## Gör så här
 
