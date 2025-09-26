@@ -15,6 +15,6 @@ Original recipe from a [nice site](https://www.allrecipes.com/recipe/17165/big-s
 - Spices: These soft gingerbread cookies are spiced with ginger, cinnamon, and cloves.
 - Baking soda: Baking soda acts as a leavener, which means it makes the dough rise.
 - Salt: A pinch of salt enhances the flavors of the other ingredients.
-Butter: Butter is great for making perfectly soft ginger cookies with slightly crisp edges. If you'd like, you can substitute margarine.
-Egg: An egg adds moisture and acts as a binding agent (it holds the dough together).
-Molasses: Molasses lends warm, cozy, and sweet flavor to these soft gingerbread cookies.
+- Butter: Butter is great for making perfectly soft ginger cookies with slightly crisp edges. If you'd like, you can substitute margarine.
+- Egg: An egg adds moisture and acts as a binding agent (it holds the dough together).
+- Molasses: Molasses lends warm, cozy, and sweet flavor to these soft gingerbread cookies.
