@@ -27,6 +27,7 @@ nav:
   - Cocktails:
       - Charlie Chaplin: "cocktails/CharlieChaplin.md"
       - Old fashioned: "cocktails/Oldfashioned.md"
+      - Zombie: "cocktails/Zombie.md"
   - Non alcoholic drinks:
        - Sunshine: "non_alcoholic_drinks/sunshine.md"    
   - Pastas & similar:
