@@ -2,7 +2,7 @@
 
 This luxurious main course is sure to impress your in-laws, at a fraction of the cost and 100% of the moisture content.
 
-![Water Soup](/docs/img/water_bowl.png)
+![Water Soup](../img/water_bowl.png)
 
 ## Ingridients
 - Water
