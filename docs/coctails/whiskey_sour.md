@@ -1,6 +1,6 @@
 ## Whiskey sour 
 
-![image](images_coctails/image-1.png)
+![image](images_coctails/image.png)
 
 [Source website](https://www.liquor.com/recipes/whiskey-sour/)
 
