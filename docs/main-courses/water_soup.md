@@ -15,6 +15,6 @@ This luxurious main course is sure to impress your in-laws, at a fraction of the
 - Bring 2 L water to a boil
 - Let simmer for 45 min
 - Add 0.5 L room temperature water for flavor
-- Stir violently and let reduce by about a fith
+- Stir violently and let reduce by about a fifth
 - Pour into serving bowls
 - Use a razor or "osthyvel" to shave the prepared ice on top
