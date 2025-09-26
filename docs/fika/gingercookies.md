@@ -1,4 +1,4 @@
-## Table of contect
+## Table of contents
 
 ![image](image/atlas_pic.png)
 
