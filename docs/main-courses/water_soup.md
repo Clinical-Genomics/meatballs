@@ -4,7 +4,7 @@ This luxurious main course is sure to impress your in-laws, at a fraction of the
 
 ![Water Soup](../img/water_bowl.png)
 
-## Ingridients
+## Ingredients
 - Water
 
 ## Preparation
