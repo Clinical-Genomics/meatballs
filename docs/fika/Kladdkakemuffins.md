@@ -4,12 +4,12 @@
 
 ## Ingredienser 
 
-- Svenskt Smör från Arla® 150 g
+- 150 g Smör
 - Strösocker 3 dl
 - Kakao 1 dl
 - Vaniljsocker ½ msk
 - Salt 2 krm
-- Ägg 3
+- 3 Ägg 
 - Vetemjöl 2 dl
 
 
