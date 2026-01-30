@@ -19,7 +19,7 @@ Fyllning:
 
 - 3/4 dl strösocker
 - 3/4 dl vatten 
-- 1 krm bittermandelarom
+- 1 bittermandel
 - 200 g mandelmassa
 - 1/2 dl rostade mandlar
 
@@ -34,7 +34,7 @@ Garnering:
 
 - Låt degen jäsa övertäckt ca 30 min.
 
-- Fyllning: Koka upp socker och vatten, så att sockret löser sig. Ta kastrullen från plattan och tillsätt bittermandelarom. Skär mandelmassan i små bitar och vispa mandelmassan och nästan all sockerlag till en jämn bredbar smet (späd eventuellt med lite mer sockerlag). Hacka mandlarna grovt och blanda ner i mandelmassafyllningen.
+- Fyllning: Koka upp socker och vatten, så att sockret löser sig. Ta kastrullen från plattan och tillsätt riven bittermandel. Skär mandelmassan i små bitar och vispa mandelmassan och nästan all sockerlag till en jämn bredbar smet (späd eventuellt med lite mer sockerlag). Hacka mandlarna grovt och blanda ner i mandelmassafyllningen.
 
 - Sätt ugnen på 200°C.
 
