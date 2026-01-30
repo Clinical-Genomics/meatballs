@@ -12,7 +12,7 @@ _**4 portioner**_
 
 1 msk olja
 
-4 msk tomatpuré
+4 msk ketchup
 
 1 tsk torkad timjan
 
