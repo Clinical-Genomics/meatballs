@@ -17,14 +17,16 @@
 ## Gör så här
 
 1. Sätt ugnen på 175 grader.
-2. Smörj och bröa en rund bakform.
-3. Smält smöret.
-4. Vispa ägg och socker poröst.
-5. Blanda de torra ingredienserna och varva ner i smeten tillsammans med filmjölken.
-6. Rör i det smälta smöret.
-7. Blanda sedan ner lingon och päron.
-8. Häll smeten i formen och grädda i 50–55 minuter. Kakan är färdig när den släpper från kanten och en provsticka är torr.
-9. Låt kakan svalna och stjälp sedan upp den.
+1. Smörj och bröa en rund bakform.
+1. Smält smöret.
+1. Vispa ägg och socker poröst.
+   - det ska kännas i armarna!
+1. Blanda de torra ingredienserna och varva ner i smeten tillsammans med filmjölken.
+1. Rör i det smälta smöret.
+   - det funkar även med olja, tex raps
+1. Blanda sedan ner lingon och päron.
+1. Häll smeten i formen och grädda i 50–55 minuter. Kakan är färdig när den släpper från kanten och en provsticka är torr.
+1. Låt kakan svalna och stjälp sedan upp den.
 
 ![Screenshot 2022-04-07 at 12 15 32](https://user-images.githubusercontent.com/37171709/162177394-dbcf6fcc-b422-4ecc-93b9-3eb9653fee31.png)
 
