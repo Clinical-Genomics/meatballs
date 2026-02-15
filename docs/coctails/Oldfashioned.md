@@ -27,3 +27,5 @@ Become entertaining
 *Ready to enjoy*
 
 8. Optional step: Send picture in Clinical Whatsapp channel
+
+Needed more text
