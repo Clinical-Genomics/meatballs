@@ -73,3 +73,5 @@ nav:
       - Popcorn: "snacks/popcorn.md"
       - Chips: "snacks/potato_chips.md"
       - Nuts: "snacks/nuts.md"
+  - Instruments:
+      - IconPCR: "instruments/iconpcr.md"
