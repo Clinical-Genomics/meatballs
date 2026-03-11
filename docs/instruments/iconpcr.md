@@ -335,28 +335,31 @@ Instructions fetched from RC WGS, how they look un-nested:
 
     1. Continue to follow the instructions for either Buffer exchange performed on the Hamilton instrument (Option 1) or manually (Option 2).
 
-How they look nested:
+How they look nested (does it render in the correct order?):
 
 ??? note "LIMS instructions"
 
     1. In LIMS **LAB VIEW** scroll to _Step 3 >> Buffer Exchange WGS v1_ and click it.
-        1. Process **all samples** at the same time, adding them with the blue _Add Group_ button. Press the green _VIEW ICE BUCKET_ and _BEGIN WORK_ buttons to open the LIMS step.
 
-        1. In the _Place Samples_ tab:
-            1. Place all samples in the same order from the "_Samples To Be Placed_" plate into the "_Placed Samples_" plate.
-            1. Name the plate (copy-paste it from the left to the right plate) **rcYYMMDDwgs bex**.
-            1. Press the green _RECORD DETAILS_ button.
+    1. Process **all samples** at the same time, adding them with the blue _Add Group_ button. Press the green _VIEW ICE BUCKET_ and _BEGIN WORK_ buttons to open the LIMS step.
 
-        1. In the _Step Details_ window, fill in the 7 UDFs correctly.
-        1. Press the blue buttons:
-            1. _Copy Sample Volume (μl) from Sample Placement_, then
-            1. _Calculate volumes_
+    1. In the _Place Samples_ tab:
+        1. Place all samples in the same order from the "_Samples To Be Placed_" plate into the "_Placed Samples_" plate.
+        1. Name the plate (copy-paste it from the left to the right plate) **rcYYMMDDwgs bex**.
+        1. Press the green _RECORD DETAILS_ button.
 
-        1. In the window _Samples_, the barcode of the output plate (from step 1, above) needs to be added to the UDF _Output Container Barcode_. Press _Apply_ to associate the output barcode to all samples in the list.
+    1. In the _Step Details_ window, fill in the 7 UDFs correctly.
+    1. Press the blue buttons:
+        1. _Copy Sample Volume (μl) from Sample Placement_, then
+        1. _Calculate volumes_
 
-        1. Press the _Save_ button.
+    1. In the window _Samples_, the barcode of the output plate (from step 1, above) needs to be added to the UDF _Output Container Barcode_. Press _Apply_ to associate the output barcode to all samples in the list.
 
-        1. Continue to follow the instructions for either Buffer exchange performed on the Hamilton instrument (Option 1) or manually (Option 2).
+    1. Press the _Save_ button.
+
+    1. Continue to follow the instructions for **Buffer Exchange (BEX)** performed on the Hamilton instrument (Option 1) or manually (Option 2).
+
+This at least rendered, but the first point was scrembled when rendered:
 
 ??? note "LIMS instructions"
 
@@ -378,3 +381,29 @@ How they look nested:
         - Press the _Save_ button.
 
         - Continue to follow the instructions for either Buffer exchange performed on the Hamilton instrument (Option 1) or manually (Option 2).
+
+Simplified instructions:
+
+??? note "LIMS instructions"
+
+    1. In LIMS **LAB VIEW**, click _Step 3 >> Buffer Exchange WGS v1_.
+
+    1. Process **all samples** at the same time. Press _VIEW ICE BUCKET_ -> _BEGIN WORK_ to open the LIMS step.
+
+    1. In the _Place Samples_ tab:
+        1. Place all samples in the same order from the "_Samples To Be Placed_" plate into the "_Placed Samples_" plate.
+        1. Name the plate (copy-paste it from the left to the right plate) **rcYYMMDDwgs bex**.
+        1. Press the green _RECORD DETAILS_ button.
+
+    1. In the _Step Details_ window, fill in the UDFs.
+    1. **Press the buttons**:
+        1. _Copy Sample Volume (μl) from Sample Placement_, then
+        1. _Calculate volumes_
+
+    1. In the window _Samples_, add the barcode of the output plate to the UDF _Output Container Barcode_. 
+
+    1. Press the _Save_ button.
+
+    1. Continue to follow the instructions for **Buffer Exchange (BEX)** performed on the Hamilton instrument (Option 1) or manually (Option 2).
+
+    
