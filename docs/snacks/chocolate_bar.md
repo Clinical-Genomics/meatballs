@@ -4,7 +4,7 @@
 
 ## Ingredients
 
-- 1förp kyld smördeg (à 250 g)
+- 1 förp kyld smördeg (à 250 g)
 - 1 äggula
 - 200 g mjölkchoklad
 - 2 dl marshmallows
