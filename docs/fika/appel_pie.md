@@ -29,6 +29,5 @@
 1. _Fyllning:_ Skala, kärna ur och skär äpplena i mindre bitar. Blanda äpplena med kanel,<br> - socker <br> och flingsalt och lägg i en smord pajform, ca 28 cm i diameter (för 6 port).
 1. Fördela smulorna över äpplena och grädda pajen mitt i ugnen 20–25 minuter, tills den fått fin färg.
 
-**_TIPS_**
 
 Servera med glass
