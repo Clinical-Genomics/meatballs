@@ -29,7 +29,7 @@
 
 - 2 msk kalvfond
 
-- ca 5 dl vatten
+- ca 6 dl vatten
 
 - 33 cl öl
 
