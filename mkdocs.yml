@@ -4,7 +4,7 @@ site_author: Clinical Genomics bioinfo team
 dev_addr: 0.0.0.0:8080
 
 extra:
-  version: 0.6.37
+  version: 0.6.38
 
 markdown_extensions:
     - mdtooltips
@@ -44,6 +44,7 @@ nav:
       - Broccoli- och ärtsoppa: "main-courses/BroccoliSoppa.md"
       - Water Soup: "main-courses/water_soup.md"
       - Gulasch: "main-courses/gulasch.md"
+      - Boeuf bourguignon: "main-courses/Bourguignon.md"
   - Breakfast:
       - Porridge: "breakfast/porridge.md" 
       - Boiled Eggs: "breakfast/boiled_egg.md"   
