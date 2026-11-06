@@ -32,7 +32,9 @@
 	• Cover and return to the oven for another 30 to 45 minutes, or until the beef is fork-tender and the sauce has thickened nicely. If the sauce is too thin, you can simmer it uncovered on the stovetop for a few minutes.
 	• Discard the bay leaves and thyme stems.
 6. Serve:
-	• Scatter with fresh chopped parsley and serve hot over creamy mashed potatoes, buttered noodles, or crusty French bread. [bbc.food](https://www.bbc.co.uk/food/recipes/boeuf_bourguignon_25475)
+	• Scatter with fresh chopped parsley and serve hot over creamy mashed potatoes, buttered noodles, or crusty French bread. 
+	
+	[bbc.food](https://www.bbc.co.uk/food/recipes/boeuf_bourguignon_25475)
 
     ![bild1](images/Bourguignon.png
     )
